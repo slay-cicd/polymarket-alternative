@@ -1,0 +1,10 @@
+{
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/_not-found/page": "/_not-found",
+  "/datenschutz/page": "/datenschutz",
+  "/blog/page": "/blog",
+  "/impressum/page": "/impressum",
+  "/page": "/",
+  "/blog/[slug]/page": "/blog/[slug]"
+}
